@@ -29,7 +29,7 @@ namespace BookProject
                 }
                 else
                 {
-                    MessageBox.Show("Kayýt eklenmiþtir");
+                    MessageBox.Show("Kayýt eklenmedi");
                 }
             }
             catch (Exception ex)
